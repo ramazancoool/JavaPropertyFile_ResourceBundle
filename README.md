@@ -1,0 +1,1 @@
+# JavaPropertyFile_ResourceBundle
